@@ -174,3 +174,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 /Training_Batch_Files
+/Prediction_Batch_files
