@@ -1,20 +1,13 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-<<<<<<< HEAD
 *$py.class
-=======
->>>>>>> bfc02c2 (first commit)
 
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
-<<<<<<< HEAD
-=======
-env/
->>>>>>> bfc02c2 (first commit)
 build/
 develop-eggs/
 dist/
@@ -26,18 +19,12 @@ lib64/
 parts/
 sdist/
 var/
-<<<<<<< HEAD
 wheels/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
-=======
-*.egg-info/
-.installed.cfg
-*.egg
->>>>>>> bfc02c2 (first commit)
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -52,10 +39,7 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
-<<<<<<< HEAD
 .nox/
-=======
->>>>>>> bfc02c2 (first commit)
 .coverage
 .coverage.*
 .cache
@@ -67,8 +51,6 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-=======
->>>>>>> bfc02c2 (first commit)
 
 # Translations
 *.mo
@@ -76,7 +58,6 @@ cover/
 
 # Django stuff:
 *.log
-<<<<<<< HEAD
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -87,14 +68,11 @@ instance/
 
 # Scrapy stuff:
 .scrapy
-=======
->>>>>>> bfc02c2 (first commit)
 
 # Sphinx documentation
 docs/_build/
 
 # PyBuilder
-<<<<<<< HEAD
 .pybuilder/
 target/
 
@@ -195,38 +173,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-=======
-target/
-
-# DotEnv configuration
-.env
-
-# Database
-*.db
-*.rdb
-
-# Pycharm
-.idea
-
-# VS Code
-.vscode/
-
-# Spyder
-.spyproject/
-
-# Jupyter NB Checkpoints
-.ipynb_checkpoints/
-
-# exclude data from source control by default
-/data/
-
-# Mac OS-specific storage files
-.DS_Store
-
-# vim
-*.swp
-*.swo
-
-# Mypy cache
-.mypy_cache/
->>>>>>> bfc02c2 (first commit)
